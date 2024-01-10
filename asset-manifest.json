@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Apple_website_clone/static/css/main.087bc5d3.css",
+    "main.js": "/Apple_website_clone/static/js/main.efd1cc72.js",
+    "static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_medium_2x.jpg": "/Apple_website_clone/static/media/promo_apple_watch_series_9_order__b3u85rm9zf6u_medium_2x.41e8e30fbdf9cf6b5d5c.jpg",
+    "static/media/iphone 15 pro.jpg": "/Apple_website_clone/static/media/iphone 15 pro.0bce176daa0e83c5dcf6.jpg",
+    "static/media/iphone15.jpg": "/Apple_website_clone/static/media/iphone15.fff0929074e3774efada.jpg",
+    "static/media/visionPro.jpg": "/Apple_website_clone/static/media/visionPro.f0059e7b836ec8da8ea9.jpg",
+    "static/media/iphone 15.jpg": "/Apple_website_clone/static/media/iphone 15.0bb6c5540e29e5a55e8d.jpg",
+    "static/media/trade-in.jpg": "/Apple_website_clone/static/media/trade-in.60e750584df5f2d729f6.jpg",
+    "static/media/welcome_hero_endframe__66ipqm3o5gyu_large_2x.jpg": "/Apple_website_clone/static/media/welcome_hero_endframe__66ipqm3o5gyu_large_2x.7e70bce6a215a4d85561.jpg",
+    "static/media/mac-air.jpg": "/Apple_website_clone/static/media/mac-air.b11ae5644a775a66ad38.jpg",
+    "static/media/card.jpg": "/Apple_website_clone/static/media/card.2ed7af2271e7516f75ec.jpg",
+    "index.html": "/Apple_website_clone/index.html",
+    "main.087bc5d3.css.map": "/Apple_website_clone/static/css/main.087bc5d3.css.map",
+    "main.efd1cc72.js.map": "/Apple_website_clone/static/js/main.efd1cc72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087bc5d3.css",
+    "static/js/main.efd1cc72.js"
+  ]
+}
